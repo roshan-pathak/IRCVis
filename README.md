@@ -16,7 +16,7 @@ This notebook works with the following steps:
 5. Producing a graph with Pyvis.
 
 ### Example of a Residue Interaction Map
-(https://i.imgur.com/tiL7FmR.png)
+![Image](https://i.imgur.com/tiL7FmR.png)
 
 *This is an interaction network of all Alanine residues in a sample trajectory/topology pair for reference. The selected residues (center of interaction) are colored in red as nodes. Other interacting residues are colored blue. The degree of interaction over the course of the trajectory for each red node darkens the color. The thicknes off the edges between nodes indicates the number of interactions observed over the course of the trajectory.*
 
